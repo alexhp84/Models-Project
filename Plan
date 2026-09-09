@@ -1,0 +1,29 @@
+Step 1
+
+1. Load CSV into DF
+2. Display DF to understand what is present
+
+Step 2 - Functions
+
+1. Normalise/scaling data
+2. Preprocessing the data
+3. Pipeline on the preprocessed data
+4. User picks k-min and kmax
+5. Elbow plot/WCSS - WCSS is Y and Kmin/Kmax is X
+6. Save as DF
+
+Step 3 - Functions
+
+1. K Means with user defined min/max
+2. Line per cluster
+3. Count per cluster
+4. DF the above
+
+Step 4
+
+via LLM for each cluster provide shortname and description
+add these to the DF from step 3
+
+Step 5
+export CSV from step 4
+add short name

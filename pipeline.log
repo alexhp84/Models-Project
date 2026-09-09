@@ -1,0 +1,20 @@
+2026-09-09 17:55:34,254 [INFO] Pre‑processing completed – transformed shape (150, 4)
+2026-09-09 17:55:34,656 [INFO] Silhouette plot displayed
+2026-09-09 17:55:48,587 [INFO] Cluster IDs assigned – 4 clusters
+2026-09-09 17:55:48,603 [INFO] No categorical columns provided for profiling. Returning an empty DataFrame with only 'cluster_id'.
+2026-09-09 17:55:48,627 [INFO] Cluster summary DataFrame built
+2026-09-09 17:55:48,628 [INFO] Clustering completed (k=4)
+2026-09-09 17:55:58,473 [INFO] LLM enriched cluster 0
+2026-09-09 17:56:01,180 [INFO] LLM enriched cluster 1
+2026-09-09 17:56:14,568 [INFO] LLM enriched cluster 2
+2026-09-09 17:56:17,675 [INFO] LLM enriched cluster 3
+2026-09-09 17:56:40,595 [INFO] Final CSV written to iris_unlabaled_clustered.csv
+2026-09-09 19:03:44,958 [INFO] Pre‑processing completed – transformed shape (150, 4)
+2026-09-09 19:03:45,132 [INFO] Silhouette plot displayed
+2026-09-09 19:03:56,182 [INFO] Cluster IDs assigned – 2 clusters
+2026-09-09 19:03:56,186 [INFO] No categorical columns provided for profiling. Returning an empty DataFrame with only 'cluster_id'.
+2026-09-09 19:03:56,192 [INFO] Cluster summary DataFrame built
+2026-09-09 19:03:56,193 [INFO] Clustering completed (k=2)
+2026-09-09 19:04:02,885 [INFO] LLM enriched cluster 0
+2026-09-09 19:04:08,872 [INFO] LLM enriched cluster 1
+2026-09-09 19:04:19,387 [INFO] Final CSV written to iris_unlabaled_clustered.csv

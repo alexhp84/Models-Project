@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b62796-9bd6-4a7f-b2f3-3b88d14d8fc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../API/.idea/API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API/API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Models Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Silhouette_Score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/Loan Site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/.idea/Loan Site.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/pandas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/loan-web-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/static/js/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/static/js/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/train_model_v3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/loan_test_beta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/logs/http.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/logs/http.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/logs/model.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/logs/model.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/model/loan_svc_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/model/loan_svc_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/logs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/logs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loan Site/train_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/train_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000004516738" />
+      <entry key="S2" value="1.004610056028657" />
+      <entry key="S5" value="1.1162739647549929" />
+      <entry key="S10" value="1.3409896842354512" />
+      <entry key="S30" value="1.6986297577716076" />
+      <entry key="S60" value="1.835840749049487" />
+      <entry key="M2" value="1.9142432657938953" />
+      <entry key="M5" value="1.9647720384626148" />
+      <entry key="M10" value="1.9822280989987076" />
+      <entry key="M15" value="1.9881166925166136" />
+      <entry key="M30" value="1.9940405890477715" />
+      <entry key="H1" value="1.99706923030002" />
+      <entry key="H2" value="2.043308203860663" />
+      <entry key="H4" value="3.5536414742643894" />
+      <entry key="D1" value="515.1784883525839" />
+      <entry key="W1" value="2572.908530071873" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="1.2983211342840167E-166" />
+      <entry key="M5" value="4.8870725274607895E-67" />
+      <entry key="M10" value="1.1339616238024606E-33" />
+      <entry key="M15" value="1.7975365014697195E-22" />
+      <entry key="M30" value="3.248209848281298E-11" />
+      <entry key="H1" value="1.4678325342667568E-5" />
+      <entry key="H2" value="0.010063168611487233" />
+      <entry key="H4" value="0.2727960497509957" />
+      <entry key="D1" value="13.397432886305314" />
+      <entry key="W1" value="52.73650675212058" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.513400321251139E-5" />
+      <entry key="MS500" value="0.12024093210768717" />
+      <entry key="S2" value="0.5929321156269416" />
+      <entry key="S5" value="0.919734532075055" />
+      <entry key="S10" value="1.232112205856483" />
+      <entry key="S30" value="1.6581704583370533" />
+      <entry key="S60" value="1.8148841578299784" />
+      <entry key="M2" value="1.9035621569031793" />
+      <entry key="M5" value="1.9604479195336435" />
+      <entry key="M10" value="1.9800571632478043" />
+      <entry key="M15" value="1.9866674094628904" />
+      <entry key="M30" value="1.9933149462154587" />
+      <entry key="H1" value="1.996720824573671" />
+      <entry key="H2" value="2.0531855747551626" />
+      <entry key="H4" value="3.8262878935130358" />
+      <entry key="D1" value="528.5753873202914" />
+      <entry key="W1" value="2625.6447135471253" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Idllmrx6f0cbpjEPwecWEVX6oh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.LLM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Silhouette_Score.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alexpatnick/Documents/Course/AI/Python/Maths/Models Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b62796-9bd6-4a7f-b2f3-3b88d14d8fc5" name="Changes" comment="" />
+      <created>1788102479686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788102479686</updated>
+      <workItem from="1788102480776" duration="3890000" />
+      <workItem from="1788199743180" duration="3040000" />
+      <workItem from="1788450483643" duration="6524000" />
+      <workItem from="1788512204874" duration="12030000" />
+      <workItem from="1788699521791" duration="12517000" />
+      <workItem from="1788713293461" duration="2224000" />
+      <workItem from="1788715559814" duration="9784000" />
+      <workItem from="1788805536535" duration="7543000" />
+      <workItem from="1788895195565" duration="5804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>604</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Models_Project$Silhouette_Score.coverage" NAME="Silhouette_Score Coverage Results" MODIFIED="1788799270079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Models_Project$LLM.coverage" NAME="LLM Coverage Results" MODIFIED="1788519949157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
