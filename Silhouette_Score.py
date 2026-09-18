@@ -246,7 +246,7 @@ def _parse_llm_json(text):
     cleaned = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
     return json.loads(cleaned)
 
-def enrich_clusters_with_llm(df_summary, progress_callback):
+def enrich_clusters_with_llm(df_summary, progress_callback=None):
     """
     Send each cluster’s data to the LLM and populate the
     *short_name* and *description* columns.  The function is resilient

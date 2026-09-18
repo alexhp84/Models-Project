@@ -4,49 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b62796-9bd6-4a7f-b2f3-3b88d14d8fc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../API/.idea/API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../API/API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../API/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Models Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Silhouette_Score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/Loan Site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/.idea/Loan Site.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/pandas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/loan-web-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/static/js/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/static/js/model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan-web-app/train_model_v3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/loan_test_beta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/logs/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/logs/http.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/logs/http.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/logs/model.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/logs/model.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/model/loan_svc_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/model/loan_svc_model.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/api.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/logs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/logs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/templates/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/templates/model.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loan Site/train_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Loan Site/train_model.py" afterDir="false" />
+    <list default="true" id="e7b62796-9bd6-4a7f-b2f3-3b88d14d8fc5" name="Changes" comment="UPDATE">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LLM.py" beforeDir="false" afterPath="$PROJECT_DIR$/LLM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Silhouette_Score.py" beforeDir="false" afterPath="$PROJECT_DIR$/Silhouette_Score.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="15" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,31 +23,44 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexhp84&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexhp84/Models-Project.git&quot;,
+    &quot;accountId&quot;: &quot;4a9e32ed-967c-4168-a5b4-c5ddbf1bc4a5&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000004516738" />
-      <entry key="S2" value="1.004610056028657" />
-      <entry key="S5" value="1.1162739647549929" />
-      <entry key="S10" value="1.3409896842354512" />
-      <entry key="S30" value="1.6986297577716076" />
-      <entry key="S60" value="1.835840749049487" />
-      <entry key="M2" value="1.9142432657938953" />
-      <entry key="M5" value="1.9647720384626148" />
-      <entry key="M10" value="1.9822280989987076" />
-      <entry key="M15" value="1.9881166925166136" />
-      <entry key="M30" value="1.9940405890477715" />
-      <entry key="H1" value="1.99706923030002" />
-      <entry key="H2" value="2.043308203860663" />
-      <entry key="H4" value="3.5536414742643894" />
-      <entry key="D1" value="515.1784883525839" />
-      <entry key="W1" value="2572.908530071873" />
+      <entry key="MS100" value="1.0521930621363327" />
+      <entry key="MS500" value="1.6389816744430505" />
+      <entry key="S2" value="3.0926776284095303" />
+      <entry key="S5" value="4.120951027906758" />
+      <entry key="S10" value="4.762460609487433" />
+      <entry key="S30" value="5.472885231006666" />
+      <entry key="S60" value="5.7170990302281846" />
+      <entry key="M2" value="5.853221810715873" />
+      <entry key="M5" value="5.939941040353703" />
+      <entry key="M10" value="5.969739879087251" />
+      <entry key="M15" value="5.979774875863545" />
+      <entry key="M30" value="5.989861467762066" />
+      <entry key="H1" value="5.994977580149334" />
+      <entry key="H2" value="6.042250185094892" />
+      <entry key="H4" value="7.552915355182947" />
+      <entry key="D1" value="519.1672400689018" />
+      <entry key="W1" value="2576.9005297733247" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -90,35 +70,35 @@
       <entry key="S10" value="0.0" />
       <entry key="S30" value="0.0" />
       <entry key="S60" value="0.0" />
-      <entry key="M2" value="1.2983211342840167E-166" />
-      <entry key="M5" value="4.8870725274607895E-67" />
-      <entry key="M10" value="1.1339616238024606E-33" />
-      <entry key="M15" value="1.7975365014697195E-22" />
-      <entry key="M30" value="3.248209848281298E-11" />
-      <entry key="H1" value="1.4678325342667568E-5" />
-      <entry key="H2" value="0.010063168611487233" />
-      <entry key="H4" value="0.2727960497509957" />
-      <entry key="D1" value="13.397432886305314" />
-      <entry key="W1" value="52.73650675212058" />
+      <entry key="M2" value="1.2781486255628657E-166" />
+      <entry key="M5" value="4.856556846599598E-67" />
+      <entry key="M10" value="1.1304157588917628E-33" />
+      <entry key="M15" value="1.793787316376966E-22" />
+      <entry key="M30" value="3.244820627351435E-11" />
+      <entry key="H1" value="1.467066557413311E-5" />
+      <entry key="H2" value="0.010060542576186505" />
+      <entry key="H4" value="0.27276045366662394" />
+      <entry key="D1" value="13.397141507402557" />
+      <entry key="W1" value="52.736342899315645" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.513400321251139E-5" />
-      <entry key="MS500" value="0.12024093210768717" />
-      <entry key="S2" value="0.5929321156269416" />
-      <entry key="S5" value="0.919734532075055" />
-      <entry key="S10" value="1.232112205856483" />
-      <entry key="S30" value="1.6581704583370533" />
-      <entry key="S60" value="1.8148841578299784" />
-      <entry key="M2" value="1.9035621569031793" />
-      <entry key="M5" value="1.9604479195336435" />
-      <entry key="M10" value="1.9800571632478043" />
-      <entry key="M15" value="1.9866674094628904" />
-      <entry key="M30" value="1.9933149462154587" />
-      <entry key="H1" value="1.996720824573671" />
-      <entry key="H2" value="2.0531855747551626" />
-      <entry key="H4" value="3.8262878935130358" />
-      <entry key="D1" value="528.5753873202914" />
-      <entry key="W1" value="2625.6447135471253" />
+      <entry key="MS100" value="0.8954431402068668" />
+      <entry key="MS500" value="1.5720122004944765" />
+      <entry key="S2" value="2.8976562815517264" />
+      <entry key="S5" value="3.9656187047248617" />
+      <entry key="S10" value="4.660471803638728" />
+      <entry key="S30" value="5.430553651025647" />
+      <entry key="S60" value="5.694569315361064" />
+      <entry key="M2" value="5.8415829842683396" />
+      <entry key="M5" value="5.935191044330001" />
+      <entry key="M10" value="5.967348721582474" />
+      <entry key="M15" value="5.978177148260181" />
+      <entry key="M30" value="5.9890607847092925" />
+      <entry key="H1" value="5.994591441621505" />
+      <entry key="H2" value="6.052106017147374" />
+      <entry key="H4" value="7.825516716229828" />
+      <entry key="D1" value="532.5638460889066" />
+      <entry key="W1" value="2629.6365491710003" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -149,7 +129,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/alexpatnick/Documents/Course/AI/Python/Maths/Models Project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -157,8 +137,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -166,7 +147,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10315.174" />
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
       </set>
     </attachedChunks>
   </component>
@@ -186,11 +168,55 @@
       <workItem from="1788715559814" duration="9784000" />
       <workItem from="1788805536535" duration="7543000" />
       <workItem from="1788895195565" duration="5804000" />
+      <workItem from="1789583516745" duration="385000" />
+      <workItem from="1789742303163" duration="285000" />
+      <workItem from="1789742746497" duration="598000" />
+      <workItem from="1789743404031" duration="58000" />
     </task>
+    <task id="LOCAL-00001" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1789742796925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789742796925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1789742937295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789742937295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1789743203331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789743203331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

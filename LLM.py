@@ -20,17 +20,6 @@ logger.propagate = False
 # Load environment variables from .env
 load_dotenv()
 
-#Parameters from the .env
-try:
-    API_KEY = os.environ["LLM_API_KEY"]
-    ENDPOINT = os.environ["LLM_ENDPOINT"]
-    MODEL = os.environ["LLM_MODEL"]
-except KeyError as missing_key:
-    raise RuntimeError(
-        f"Missing required .env variable: {missing_key}. "
-        "Set LLM_API_KEY, LLM_ENDPOINT, and LLM_MODEL before running."
-    ) from missing_key
-
 #Create an LLM session with retries
 session = requests.Session()
 retries = Retry(
@@ -45,14 +34,24 @@ def ask_llm(prompt: str) -> str:
     """
     Send a user prompt to the LLM endpoint and return the generated reply.
     """
-    logger.info(f"Calling LLM endpoint {ENDPOINT} with model {MODEL}")
+    try:
+        api_key = os.environ["LLM_API_KEY"]
+        endpoint = os.environ["LLM_ENDPOINT"]
+        model = os.environ["LLM_MODEL"]
+    except KeyError as missing_key:
+        raise RuntimeError(
+            f"Missing required .env variable: {missing_key}. "
+            "Set LLM_API_KEY, LLM_ENDPOINT, and LLM_MODEL before running."
+        ) from missing_key
+
+    logger.info(f"Calling LLM endpoint {endpoint} with model {model}")
 
     try:
         response = session.post(
-            ENDPOINT,
-            headers={"Authorization": f"Bearer {API_KEY}"},
+            endpoint,
+            headers={"Authorization": f"Bearer {api_key}"},
             json={
-                "model": MODEL,
+                "model": model,
                 "messages": [{"role": "user", "content": prompt}],
                 "stream": False,
             },
